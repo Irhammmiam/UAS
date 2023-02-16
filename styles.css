@@ -1,0 +1,40 @@
+span.css-10trblm.e16nr0p30{
+    background-color: #fabb0e;
+    color: black;
+    border-radius: 15px;
+}
+
+header.css-1avcm0n.e8zbici2{
+    background-color: black;
+}
+
+label.css-klqnuk.ehezqtx4{
+    text-shadow: red;
+}
+
+div.st-ae.st-af.st-ag.st-be.st-ai.st-aj.st-bf.st-bg.st-b8:hover{
+    background-color: #FF0000;
+    color:#ff99ff;
+}
+
+svg.st-cf.st-d3.st-bt.st-d4.st-d5{
+    background-color: red;
+    color:#ffffff;
+    border: 1px solid darkblue;
+}
+
+li.css-c2zpwa{
+    color:red;
+}
+
+li.css-l2f9e0{
+    background-color: black;
+}
+li.css-l2f9e0:hover{
+    background-color: azure;
+    color: #FF0000;
+}
+
+.css-1yy6isu p{
+    color: aqua;
+}
